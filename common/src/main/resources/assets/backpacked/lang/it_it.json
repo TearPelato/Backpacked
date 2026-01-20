@@ -138,8 +138,8 @@
     "backpacked.gui.configure": "Configura",
     "backpacked.gui.cosmetic_warning": "Solo la personalizzazione del primo Zaino equipaggiato verrà vista dal player",
     "backpacked.gui.cycle_sort_mode": "%s per Cambiare Modalità",
-    "backpacked.gui.experience_cost": "%s Exp Level",
-    "backpacked.gui.experience_cost.plural": "%s Livelli di Exp",
+    "backpacked.gui.experience_cost": "%s Esperienza Level",
+    "backpacked.gui.experience_cost.plural": "%s Livelli di Esperienza",
     "backpacked.gui.filters": "Filtri",
     "backpacked.gui.hold_button_to_expand": "Tieni Premuto %s per Espandere",
     "backpacked.gui.hold_to_unlock": "Tieni Premuto per Sbloccare",
@@ -149,7 +149,7 @@
     "backpacked.gui.missing_items": "Oggetti Mancanti",
     "backpacked.gui.no_backpack_equipped": "Nessun Zaino equipaggiato",
     "backpacked.gui.no_backpack_equipped.plural": "No backpacks equipped",
-    "backpacked.gui.not_enough_exp": "Non hai Abbastanza Exp",
+    "backpacked.gui.not_enough_exp": "Non hai Abbastanza Esperienza",
     "backpacked.gui.open_backpack_inventory": "Apri l'inventario dello Zaino",
     "backpacked.gui.options": "Opzioni",
     "backpacked.gui.pick_an_augment": "Scegli un Augment",
@@ -202,6 +202,6 @@
     "key.backpacked.open_backpack": "Apri Zaino",
     "key.backpacked.open_management": "Apri Gestione Zaino",
     "key.categories.backpacked": "Backpacked",
-    "message.backpacked.occupied_back_slot": "Lo slot Back è occupato da un altro oggetto",
+    "message.backpacked.occupied_back_slot": "Lo slot Dietro è occupato da un altro oggetto",
     "message.backpacked.player_opened": "Un giocatore ha aperto il tuo zaino"
 }
